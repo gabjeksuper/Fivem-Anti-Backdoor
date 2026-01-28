@@ -79,4 +79,4 @@ The **iDevScanner** engine is built to recognize specific signatures that others
 ---
 
 ### 🛡️ Protect your community
-**[Get iDevScanner Now](https://discord.com/channels/1217947558283051079/1426215832752750662)**
+**[Get iDevScanner Now](https://discord.gg/ZsMJYKpGDE)**
