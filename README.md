@@ -40,7 +40,7 @@ Cleaning the files is step one. Ensuring they can **never** connect back to the 
 We implement a massive, proprietary **1.64GB Network Blocklist**:
 * **500 Million+ Domains:** Blocks every known C2 (Command & Control) server used by FiveM malware.
 * **Zero Lag:** Works at the network/hosts level. **0% MS impact** on your server performance.
-* **Instant Neutralization:** Even if a player injects a script, it cannot "call home". The backdoor becomes useless.
+* **Instant Neutralization:** Even if a script inject a backdoor, it cannot "call home". The backdoor becomes useless.
 
 ---
 
