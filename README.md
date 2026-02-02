@@ -50,7 +50,7 @@ We don't offer a broken free version. We offer professional security for serious
 
 | Tier | Service | Price | Details |
 | :--- | :--- | :--- | :--- |
-| **Tier 1** | **iDevScanner v4.7** | **20.00€** | Full access to the tool. Detects Blum, RCE, Reverse Shells, and obfuscated payloads. Includes instructions. |
+| **Tier 1** | **iDevScanner v4.8** | **20.00€** | Full access to the tool. Detects Blum, RCE, Reverse Shells, and obfuscated payloads. Includes instructions. |
 | **Tier 2** | **Full Security Suite** | **50.00€** | **Includes Tier 1 Scanner** + **The "Black Hole" Database** (1.64GB Blocklist). |
 
 > *Note: The Full Security Suite guarantees a secured VPS and FiveM Server within 48 hours.*
