@@ -48,6 +48,7 @@ We implement a massive, proprietary **1.64GB Network Blocklist**:
 * **500 Million+ Domains:** Blocks every known C2 (Command & Control) server used by FiveM malware.
 * **Zero Lag:** Works at the network/hosts level. **0% MS impact** on your server performance.
 * **Instant Neutralization:** Even if a script inject a backdoor, it cannot "call home". The backdoor becomes useless.
+* **✨ NEW: Updated:** Expanded the blocklist with the latest malicious IP addresses and domains linked to Blum Panel to counter new threats.
 
 ---
 
