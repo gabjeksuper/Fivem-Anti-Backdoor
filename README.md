@@ -34,8 +34,8 @@ A dedicated, regularly updated heuristic scanner designed to unpack and detect:
 * **Anti-Obfuscation Engine:** Automatically unpacks and analyzes heavily encrypted code layers to find malicious logic hidden underneath.
 * **High-Risk Behavior Analysis:** Identifies scripts attempting to execute system commands (RCE), reverse shells, or unauthorized network connections.
 * **Zero-Day Readiness:** Already updated to detect the newest self replicating variants that attempt to regenerate themselves within your system.
-* ✨ NEW: Surgical Auto-Cleaner: Automatically extracts malicious backdoor patterns from your scripts without breaking the original code.
-* ✨ NEW: Auto-Manifest Fix: If a deeply infected file is completely wiped, the scanner automatically removes its reference from your fxmanifest.lua or __resource.lua.
+* **✨ NEW: Surgical Auto-Cleaner:** Automatically extracts malicious backdoor patterns from your scripts without breaking the original code.
+* **✨ NEW: Auto-Manifest Fix:** If a deeply infected file is completely wiped, the scanner automatically removes its reference from your fxmanifest.lua or __resource.lua.
 
 ### ✨ NEW 2. The iDev Discord Scanner Bot (Included with the iDevScanner)
 Test new scripts before they ever touch your VPS. Included with your scanner purchase is exclusive role-based access to our Discord Bot:
