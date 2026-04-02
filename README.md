@@ -2,7 +2,7 @@
 
 > **The definitive solution against Blum Panel, Cipher, and modern obfuscated backdoors.**
 
-**Current Version:** v4.9 (Updated 20/02/2026)  
+**Current Version:** v5.0 (Updated 02/04/2026)  
 **Status:** 🟢 Active & Detecting
 
 ---
@@ -28,14 +28,21 @@ Many server owners realize they are infected and try to pay the backdoor creator
 
 We provide an advanced cleanup service and proprietary tools that go far beyond what standard paid or free scanners can do.
 
-### 1. iDevScanner v4.9 (Premium Tool)
+### 1. iDevScanner v5.0 (Premium Tool)
 A dedicated, regularly updated heuristic scanner designed to unpack and detect:
 * **Comprehensive Database:** Detects Blum, Cipher, and previously unknown private backdoors.
 * **Anti-Obfuscation Engine:** Automatically unpacks and analyzes heavily encrypted code layers to find malicious logic hidden underneath.
 * **High-Risk Behavior Analysis:** Identifies scripts attempting to execute system commands (RCE), reverse shells, or unauthorized network connections.
 * **Zero-Day Readiness:** Already updated to detect the newest self replicating variants that attempt to regenerate themselves within your system.
+* ✨ NEW: Surgical Auto-Cleaner: Automatically extracts malicious backdoor patterns from your scripts without breaking the original code.
+* ✨ NEW: Auto-Manifest Fix: If a deeply infected file is completely wiped, the scanner automatically removes its reference from your fxmanifest.lua or __resource.lua.
+
+### ✨ NEW 2. The iDev Discord Scanner Bot (Included with the iDevScanner)
+Test new scripts before they ever touch your VPS. Included with your scanner purchase is exclusive role-based access to our Discord Bot:
+* **100% Clean and Private:** Upload a .zip resource directly in our Discord channel. Your uploaded files are not stored in order to protect your files, and your scan report is sent completely privately to your screen.
+* **Zero VPS Infection:** Because the file never touches your server's hard drive, it is physically impossible to trigger a backdoor, execute malicious code, or leak your VPS data.
   
-### 2. The "Black Hole" Protection (Infrastructure Level)
+### 3. The "Black Hole" Protection (Infrastructure Level)
 Cleaning the files is step one. Ensuring they can **never** connect back to the hacker is step two.
 We implement a massive, proprietary **1.64GB Network Blocklist**:
 * **500 Million+ Domains:** Blocks every known C2 (Command & Control) server used by FiveM malware.
@@ -50,8 +57,8 @@ We don't offer a broken free version. We offer professional security for serious
 
 | Tier | Service | Price | Details |
 | :--- | :--- | :--- | :--- |
-| **Tier 1** | **iDevScanner v4.9** | **20.00€** | Full access to the tool. Detects Blum, RCE, Reverse Shells, and obfuscated payloads. Includes instructions. |
-| **Tier 2** | **Full Security Suite** | **50.00€** | **Includes Tier 1 Scanner** + **The "Black Hole" Database** (1.64GB Blocklist). |
+| **Tier 1** | **iDevScanner v5.0** | **20.00€** | Full access to the v5.0 Scanner with **Auto-Cleaner + Exclusive Access to the Discord Scanner Bot**. Detects Blum, RCE, Reverse Shells, and obfuscated payloads. |
+| **Tier 2** | **Full Security Suite** | **50.00€** | **Includes Tier 1 Scanner and Bot** + **The "Black Hole" Database** (1.64GB Blocklist). |
 
 > *Note: The Full Security Suite guarantees a secured VPS and FiveM Server within 48 hours.*
 
@@ -63,7 +70,7 @@ We operate exclusively through our [Discord](https://discord.gg/ZsMJYKpGDE) to e
 
 1.  **Join the Discord:** [Click Here to Join](https://discord.gg/ZsMJYKpGDE)
 2.  **Open a Ticket:** Go to the [support channel](https://discord.com/channels/1217947558283051079/1426215832752750662) and open a ticket.
-3.  **Get Protected:** We will deploy the scanner or perform the full cleanup service immediately.
+3.  **Get Protected:** We will deploy the scanner, grant you bot access, or perform the full cleanup service immediately.
 
 ---
 
