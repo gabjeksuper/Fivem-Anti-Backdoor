@@ -2,7 +2,7 @@
 
 > **The definitive solution against Blum Panel, Cipher, and modern obfuscated backdoors.**
 
-**Current Version:** v5.0 (Updated 02/04/2026)  
+**Current Version:** v5.1 (Updated 20/04/2026)  
 **Status:** 🟢 Active & Detecting
 
 ---
@@ -28,7 +28,7 @@ Many server owners realize they are infected and try to pay the backdoor creator
 
 We provide an advanced cleanup service and proprietary tools that go far beyond what standard paid or free scanners can do.
 
-### 1. iDevScanner v5.0 (Premium Tool)
+### 1. iDevScanner v5.1 (Premium Tool)
 A dedicated, regularly updated heuristic scanner designed to unpack and detect:
 * **Comprehensive Database:** Detects Blum, Cipher, and previously unknown private backdoors.
 * **Anti-Obfuscation Engine:** Automatically unpacks and analyzes heavily encrypted code layers to find malicious logic hidden underneath.
@@ -58,7 +58,7 @@ We don't offer a broken free version. We offer professional security for serious
 
 | Tier | Service | Price | Details |
 | :--- | :--- | :--- | :--- |
-| **Tier 1** | **iDevScanner v5.0** | **20.00€** | Full access to the v5.0 Scanner with **Auto-Cleaner + Exclusive Access to the Discord Scanner Bot**. Detects Blum, RCE, Reverse Shells, and obfuscated payloads. |
+| **Tier 1** | **iDevScanner v5.1** | **20.00€** | Full access to the v5.1 Scanner with **Auto-Cleaner + Exclusive Access to the Discord Scanner Bot**. Detects Blum, RCE, Reverse Shells, and obfuscated payloads. |
 | **Tier 2** | **Full Security Suite** | **50.00€** | **Includes Tier 1 Scanner and Bot** + **The "Black Hole" Database** (1.64GB Blocklist). |
 
 > *Note: The Full Security Suite guarantees a secured VPS and FiveM Server within 48 hours.*
