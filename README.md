@@ -2,7 +2,7 @@
 
 > **The definitive solution against Blum Panel, Cipher, and modern obfuscated backdoors.**
 
-**Current Version:** v5.2 (Updated 21/07/2026)  
+**Current Version:** v5.3 (Updated 05/09/2026)  
 **Status:** 🟢 Active & Detecting
 
 ---
